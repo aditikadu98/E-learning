@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-11T01:05:57 IST" name="Default suite" finished-at="2020-11-11T01:09:56 IST" duration-ms="239354">
+    <groups>
+    </groups>
+    <test started-at="2020-11-11T01:05:57 IST" name="Default test" finished-at="2020-11-11T01:09:56 IST" duration-ms="239354">
+      <class name="tests.test_1">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.test_1@51e5fc98]" started-at="2020-11-11T01:05:57 IST" name="beforeClass" finished-at="2020-11-11T01:06:11 IST" duration-ms="13481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="ELTC_031()[pri:0, instance:tests.test_1@51e5fc98]" started-at="2020-11-11T01:06:11 IST" name="ELTC_031" finished-at="2020-11-11T01:07:51 IST" duration-ms="100591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ELTC_031 -->
+        <test-method signature="ELTC_032()[pri:1, instance:tests.test_1@51e5fc98]" started-at="2020-11-11T01:07:51 IST" name="ELTC_032" finished-at="2020-11-11T01:09:39 IST" duration-ms="108132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ELTC_032 -->
+        <test-method signature="ELTC_033()[pri:2, instance:tests.test_1@51e5fc98]" started-at="2020-11-11T01:09:39 IST" name="ELTC_033" finished-at="2020-11-11T01:09:56 IST" duration-ms="17082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ELTC_033 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.test_1@51e5fc98]" started-at="2020-11-11T01:09:56 IST" name="afterClass" finished-at="2020-11-11T01:09:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.test_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
