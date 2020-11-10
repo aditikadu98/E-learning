@@ -46,7 +46,7 @@ public class test_1 {
 
 	@AfterClass
 	public void afterClass() {
-		//Browser.driverClose();
+		Browser.driverClose();
 	}
 
 }
